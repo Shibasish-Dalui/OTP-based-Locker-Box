@@ -1,6 +1,6 @@
 # OTP-based-Locker-Box 🔐
 
-This is a project of a digital locker based on ATM like otp based authentication mechanism.
+This is a project of a digital locker based on ATM like OTP based authentication mechanism.
 
 ## 👀 How it Works
 
