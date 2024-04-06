@@ -17,6 +17,10 @@ will be banned by the server for more 15 minutes.
 
 ## ⚙️ Components Used
 
+<img style="border-radius:10px;"
+    src="https://github.com/Shibasish-Dalui/OTP-based-Locker-Box/blob/main/components.png">
+<br>
+
 - NodeMCU ESP8266 micro-controller
 - 4x4 Hex-keypad
 - Jumperwires
@@ -29,7 +33,7 @@ will be banned by the server for more 15 minutes.
 
 - NodeMCU and the server Computer Both should be connected to the same Wifi.
 - First Check the IP address of the server in the local network interface.
-- Put the IP address and all wifi credentials in the *CryptoLocker.ino* File at desired fields.
+- Put the IP address and all wifi credentials in the *locker.ino* File at desired fields.
 - Install all required libraries in Arduino IDE.
 - Upload the code in ESP8266.
 - Put the sender email credentials and a reciever email address in the *server.py* File at desired fields.
